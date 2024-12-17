@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "988516183589",
+    "firebase_url": "https://examen-984b8-default-rtdb.firebaseio.com",
+    "project_id": "examen-984b8",
+    "storage_bucket": "examen-984b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988516183589:android:2d1913d21390a4907f99cc",
+        "android_client_info": {
+          "package_name": "com.example.seguimientoderutas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqs7Zs7bRu9tK-PHKfcTuKKL0axu3ShDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
